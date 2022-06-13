@@ -3,7 +3,7 @@
 ### Se entrou no meu perfil contrata 😜
 
 
- - 📚 Cursando Desenvolvimento de Sistemas.
+ - 📚 Técnica em Desenvolvimento de Sistemas.
  - 🧐 Aberta a novas oportunidades e experiências.
  - 📌 Brazil, São Paulo
 
