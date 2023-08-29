@@ -3,8 +3,9 @@
 ### Se entrou no meu perfil contrata 😜
 
 
- - 📚 Técnica em Desenvolvimento de Sistemas.
- - 🧐 Aberta a novas oportunidades e experiências.
+ - 💻 Estudante de Sistemas de Informação - FIAP
+ - 📚 Técnica em Desenvolvimento de Sistemas
+ - 🧐 Aberta a novas oportunidades e experiências
  - 📌 Brazil, São Paulo
 
  ##  Tecnologias 💻
