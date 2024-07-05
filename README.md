@@ -1,6 +1,6 @@
 ## ⚡ Anny Pereira ⚡ 
 ###
-### Se entrou no meu perfil contrata 😜
+### Olá, seja bem vindx! 👋🏻
 
 
  - 💻 Estudante de Sistemas de Informação - FIAP
