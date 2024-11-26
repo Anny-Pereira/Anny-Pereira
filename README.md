@@ -4,12 +4,13 @@
 
 
  - 💻 Estudante de Sistemas de Informação - FIAP
- - 📚 Técnica em Desenvolvimento de Sistemas
+ - 📚 Técnica em Desenvolvimento de Sistemas - SENAI
  - 🧐 Aberta a novas oportunidades e experiências
  - 📌 Brazil, São Paulo
 
  ##  Tecnologias 💻
 <div style="display: inline_block"><br>
+  <img align="center" alt="Anny-Java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> 
   <img align="center" alt="Anny-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Anny-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anny-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
