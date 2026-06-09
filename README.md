@@ -23,11 +23,14 @@
   <img align="center" alt="Anny-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
 
-  ## Estatísticas 📈
+## Estatísticas 📈
 <div>
   <a href="https://github.com/anny-pereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anny-pereira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anny-pereira&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anny-pereira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/anny-pereira">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anny-pereira&layout=compact&langs_count=7&theme=midnight-purple" alt="Linguagens mais usadas" />
+  </a>
 </div>
 
   
