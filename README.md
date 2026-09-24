@@ -3,15 +3,17 @@
 ### Olá, seja bem vindx! 👋🏻
 
 
- - 💻 Estudante de Sistemas de Informação - FIAP
+ - 💻 Analista de Sistemas - Kiman Solutions
+ - 🎓 Estudante de Sistemas de Informação - FIAP
  - 📚 Técnica em Desenvolvimento de Sistemas - SENAI
  - 🧐 Aberta a novas oportunidades e experiências
  - 📌 Brazil, São Paulo
 
  ##  Tecnologias 💻
 <div style="display: inline_block"><br>
-  <img align="center" alt="Anny-Java" height="40" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"> 
-  <img align="center" alt="Anny-Java" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> 
+  <img align="center" alt="Anny-Swift" height="42" width="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"> 
+  <img align="center" alt="Anny-Kotlin" height="40" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"> 
+  <img align="center" alt="Anny-Flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> 
   <img align="center" alt="Anny-Java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> 
   <img align="center" alt="Anny-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Anny-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
